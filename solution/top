@@ -1,0 +1,9 @@
+#! /bin/bash
+
+# run the script like this:
+# $ chmod +x ./path/to/top
+# $ ./path/to/top 10 ./path/to/log.txt
+
+# here comes your solution
+# e.g.
+cut -d' ' -f1 $2 | head -$1 | cat -n
