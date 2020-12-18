@@ -1,4 +1,4 @@
-# spfinal
+### spfinal
 
 ***
 * Name: Vasya Pupkin
@@ -7,7 +7,7 @@
 * Soltuion: [./top](./top)
 ***
 
-Describe your solution here using the best of your writing talents ... using github markdown.
+Describe your solution here using the best of your writing talents ... using github **markdown**.
 
 You should demostrate that you understand what your solution script does. Each step of the solution pipeline should be explained.
 
