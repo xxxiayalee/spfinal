@@ -1,5 +1,6 @@
 # spfinal
 
+***
 * Name: Vasya Pupkin
 * Email: 100000026@sdu.stu.edu.kz
 * Variant: [01](./variants/variant01.md)
