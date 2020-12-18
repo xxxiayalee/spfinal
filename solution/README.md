@@ -1,4 +1,4 @@
-### spfinal
+### spfinal solution
 
 ***
 * Name: Vasya Pupkin
