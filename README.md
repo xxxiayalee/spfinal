@@ -31,7 +31,7 @@ was issued a **GET** request to get the resource at **/example/example.atom**. R
 * The explanation of your code should be stored in [./solution/README.md](./solution/README.md).
 * Grading is 20 points for correct code and 20 points for [./solution/README.md](./solution/README.md).
   - there will be 20 runs (tests) of your code, each run is 1 point (if correct).
-  - [./solution/README.md](./solution/README.md) will be judged subjectively for how much pain it will have caused me to read and understand your solution... it shouldn't be toooooo long and shouldn't be too short, each step in the pipeline of your solution should be explained and outputs should provided using some example.
+  - [./solution/README.md](./solution/README.md) will be judged subjectively for how much pain it will have caused me to read and understand your solution... it shouldn't be toooooo long and shouldn't be too short, each step in the pipeline of your solution should be explained and outputs should be provided using a real  example.
   - beware of cheating, identical or too similar solutions (according to my own intuition) will get zero points.
 
 
