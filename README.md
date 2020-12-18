@@ -29,9 +29,9 @@ was issued a **GET** request to get the resource at **/example/example.atom**. R
 * The code of your solution should be stored in file [./solution/top](./solution/top). To run the solution make it executable by `chmod +x ./top` command. Your solution will typically include 4-10 lines of commmands. A one liner solution is also possible but probably it will look ugly (my subjective point of view).
   - Your solution will be tested on sub-chunks of the `log.txt` file provided above. You can split your `log.txt` into chunks using `split` command. Our testing script will run your solution and compare its output with our "correct" outputs by `diff` command. Thus your solution will be judged.
 * The explanation of your code should be stored in [./solution/README.md](./solution/README.md).
-* Grading is 20 points for correct code and 20 points for [./solution/README.md](./solution/README.md).
+* Grading is 20 points for [./solution/top](./solution/top) and 20 points for [./solution/README.md](./solution/README.md).
   - there will be 20 runs (tests) of your code, each run is 1 point (if correct).
-  - [./solution/README.md](./solution/README.md) will be judged subjectively for how much pain it will have caused me to read and understand your solution... it shouldn't be toooooo long and shouldn't be too short, each step in the pipeline of your solution should be explained and outputs should be provided using a real  example.
+  - [./solution/README.md](./solution/README.md) will be judged subjectively for how much pain it will cause me to read and understand your solution (the less pain is the better), it shouldn't be toooooo long and shouldn't be too short, each step in the pipeline of your solution should be explained and outputs should be provided using a real  example.
   - beware of cheating, identical or too similar solutions (according to my own intuition) will get zero points.
 
 
