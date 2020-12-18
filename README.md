@@ -1,9 +1,9 @@
 # spfinal
 ## Final EXAM, CSS307 SP, FALL 2020
-###### \[Due to 23:59, December 21, 2020\]
+###### \[Due to 23:00, December 25, 2020\]
 
 ### Aim
-- To assess knowledge of basic and not-so-basic UNIX/Linux shell commands and scripting.
+- To assess Linux command line and shell scrpting skills.
 
 ### Task
 
